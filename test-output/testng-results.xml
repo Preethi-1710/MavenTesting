@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="16" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="163" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="163" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+      <class name="org.samplesuite.Samplelevel3">
+        <test-method status="PASS" signature="tc8()[pri:-87, instance:org.samplesuite.Samplelevel3@45b9a632]" name="tc8" duration-ms="22" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="tc9()[pri:-9, instance:org.samplesuite.Samplelevel3@45b9a632]" name="tc9" duration-ms="2" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+        <test-method status="PASS" signature="tc9()[pri:-9, instance:org.samplesuite.Samplelevel3@45b9a632]" name="tc9" duration-ms="2" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+        <test-method status="PASS" signature="tc9()[pri:-9, instance:org.samplesuite.Samplelevel3@45b9a632]" name="tc9" duration-ms="2" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+        <test-method status="PASS" signature="tc9()[pri:-9, instance:org.samplesuite.Samplelevel3@45b9a632]" name="tc9" duration-ms="8" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+        <test-method status="PASS" signature="tc9()[pri:-9, instance:org.samplesuite.Samplelevel3@45b9a632]" name="tc9" duration-ms="1" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+      </class> <!-- org.samplesuite.Samplelevel3 -->
+      <class name="org.samplesuite.Samplelevel">
+        <test-method status="PASS" signature="tc6()[pri:-19, instance:org.samplesuite.Samplelevel@4df50bcc]" name="tc6" duration-ms="3" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.samplesuite.Samplelevel@4df50bcc]" name="tc7" duration-ms="6" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.samplesuite.Samplelevel@4df50bcc]" name="tc7" duration-ms="1" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.samplesuite.Samplelevel@4df50bcc]" name="tc7" duration-ms="1" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc5()[pri:9, instance:org.samplesuite.Samplelevel@4df50bcc]" name="tc5" duration-ms="4" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- org.samplesuite.Samplelevel -->
+      <class name="org.samplesuite.Sample1">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.samplesuite.Sample1@25d250c6]" name="tc2" duration-ms="1" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.samplesuite.Sample1@25d250c6]" name="tc3" duration-ms="4" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.samplesuite.Sample1@25d250c6]" name="tc4" duration-ms="4" started-at="2021-11-13T04:58:32Z" finished-at="2021-11-13T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- org.samplesuite.Sample1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
